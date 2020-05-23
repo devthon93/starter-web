@@ -1,0 +1,7 @@
+They identified the bogus Twitter accounts by using artificial intelligence 
+to track where the tweets were coming from, the number of followers, 
+and the frequency of tweets coming from a single account. 
+Kathleen Carley, a computer-science professor who led the research, 
+said the bots tweet more frequently than is humanly possible or tweet 
+from different locations on opposite sides of the world just hours apart. 
+(That’s a little suspect when few people are jetting around the globe right now.)
